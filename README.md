@@ -25,7 +25,12 @@ A collection of Go applications developed by myself.
 - Opentracing by jaeger 
 - API Ratelimiter
 
-#### 3. Chat Room (WebSocket app) [code](https://github.com/camtrik/go-chatroom) (Updating)
+
+#### 3. Blog Tag Management via gRPC [code](https://github.com/camtrik/gRPC-blog-tag-management) (Updating)
+**Description:** A gRPC service for managing blog tags efficiently in the 2.[gin-blog](https://github.com/camtrik/gin-blog) project.
+
+
+#### 4. Chat Room (WebSocket app) [code](https://github.com/camtrik/go-chatroom) (Updating)
 **Description:** A real-time chat room application built using WebSocket in Go. Users can join, leave, and communicate in multiple chat rooms.
 
 ---
@@ -40,7 +45,7 @@ A collection of Go applications developed by myself.
 #### 1. go tools [コード](https://github.com/camtrik/go-tools)
 **説明:** Goで開発されたツールコレクション。ネームフォマット変換器、SQLからGo構造体変換器などの便利な機能を含んでいます。
 
-#### 2. Gin Blog System [コード](https://github.com/camtrik/gin-blog) (更新中)
+#### 2. Gin Blog System [コード](https://github.com/camtrik/gin-blog) (進行中)
 **説明:** Ginフレームワークを使用して構築されたブログ投稿とタグを管理するためのWebアプリケーション。完成しました機能は以下になります：
 - 記事の公開と修正
 - 記事タグ
@@ -49,6 +54,8 @@ A collection of Go applications developed by myself.
 - JaegerによるOpentracing
 - APIレートリミッター
 
-#### 3. Chat Room  (WebSocket app) [コード](https://github.com/camtrik/go-chatroom) (更新中)
-**説明:** Goで開発されたリアルタイムチャットルームアプリケーション。ユーザーは複数のチャットルームに参加し、退出し、コミュニケーションを取ることができます。
+#### 3. Blog Tag Management via gRPC [コード](https://github.com/camtrik/gRPC-blog-tag-management) (進行中)
+**説明:** 2.[gin-blog](https://github.com/camtrik/gin-blog)プロジェクトでブログのタグを効率的に管理するためのgRPCサービス。
 
+#### 4. Chat Room  (WebSocket app) [コード](https://github.com/camtrik/go-chatroom) (進行中)
+**説明:** Goで開発されたリアルタイムチャットルームアプリケーション。ユーザーは複数のチャットルームに参加し、退出し、コミュニケーションを取ることができます。
